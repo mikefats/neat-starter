@@ -4,8 +4,12 @@
 
 /*Your Custom CSS Goes here*/
 
+body {
+    @apply text-purple-700 font-sans lg:font-serif;
+}
+
 h1 {
-  @apply text-4xl tracking-tighter mb-3 text-center lg:text-7xl text-red-900;
+  @apply text-4xl tracking-tighter mb-3 text-center lg:text-7xl text-purple-300;
 }
 
 h3 {
