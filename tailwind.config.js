@@ -11,7 +11,9 @@ module.exports = {
       center: true,
     },
     extend: {
-      colors: {},
+      colors: {
+        'michael-yellow': '#FAFF00',
+      },
     },
   },
   variants: {},
