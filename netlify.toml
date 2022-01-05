@@ -1,4 +1,3 @@
 [build]
   publish = "_site"
   command = "npm run build"
-  APPLITOOLS_API_KEY = "Eon5ucAGfVlyl2BmdHU101EAtV106MVeVKSe7Ilf3OE97CM110"
